@@ -99,11 +99,6 @@ export const playlists = [
     items: [1, 2, 3, 4, 5],
   },
   {
-    id: 2,
-    title: 'Road',
-    items: [1, 6, 7],
-  },
-  {
     id: 3,
     title: 'Rock',
     items: [8, 9],
