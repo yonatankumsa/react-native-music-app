@@ -2,7 +2,9 @@
 
 A mobile application built using React Native
 
-![screenshots of example app](https://raw.githubusercontent.com/TPMinan/react-native-music-app/master/images/screenshot.png)
+<p align="center">
+  <img src="https://github.com/m-inan/react-native-music-app/blob/master/images/screen.gif?raw=true" alt="animated" />
+</p>
 
 ## Features
 
